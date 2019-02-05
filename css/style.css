@@ -1948,6 +1948,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .contact_map iframe {
   height: 495px;
   width: 100%;
+  padding: 0% 6%;
 }
 
 /* End Map Css */
