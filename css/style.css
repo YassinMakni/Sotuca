@@ -2692,8 +2692,13 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .indexlogo{
   height: 140px ; 
   width: 340px ; 
-  margin-left: 100px
+  margin-left: 5% ; 
 }
 .ipsumimg{
   padding-bottom: 16px;
 }
+.navbar-header img{
+       
+                max-width: 130px !important ; 
+            
+    }
